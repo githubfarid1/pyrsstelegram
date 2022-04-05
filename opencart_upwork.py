@@ -6,7 +6,7 @@ import humanize
 import time
 import requests
 
-post_age = 300 #5 minutes
+post_age = 600 #10 minutes
 old_entries = []
 TOKEN = "1826066081:AAFQM3UG973Ufa1J22PKNs0cmIzSgBTuADU"
 CHAT_ID = "@laravelopencartfrd"
